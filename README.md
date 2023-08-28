@@ -12,19 +12,16 @@ For More Details, [Read the Concept Idea Here](./concept-README.md)
 
 ### Arbitrum Blockchain Deployment
 
-Plan Smart Contract deployed at: [0x9e85e2Ee2D83a14f55C258e9a4012D628fD63c4F](https://goerli.arbiscan.io/address/0x9e85e2Ee2D83a14f55C258e9a4012D628fD63c4F)
+Plan Smart Contract deployed at: [0x64A14df1dE76B75CbD87AA8fe32951E759D0C1E6](https://testnet.snowtrace.io/address/0x64A14df1dE76B75CbD87AA8fe32951E759D0C1E6)
 
-Subscription Smart Contract deployed at: [0x83Ef4328E745e1aC0A45C229b699dc6676556B1F](https://goerli.arbiscan.io/address/0x83Ef4328E745e1aC0A45C229b699dc6676556B1F)
-
-TestNet Subscription NFTs can be looked up at: [TestNet OpenSea](https://testnets.opensea.io/collection/subscriptionnft-1)
+Subscription Smart Contract deployed at: [0x8c2056ca1e97A21e85b8b00E57A14E8b7b7aa7AE](https://testnet.snowtrace.io/address/0x8c2056ca1e97A21e85b8b00E57A14E8b7b7aa7AE)
 
 ### Run the Project Locally
 
 ```
-git clone https://github.com/sagaranand015/doorway-protocol
-cd doorway-protocol
+git clone https://github.com/sagaranand015/avalanche-doorway
+cd avalanche-protocol
 cd frontend
 yarn 
 yarn run dev
 ```
-# avalanche-doorway
